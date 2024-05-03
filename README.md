@@ -9,7 +9,7 @@ An autoencoder is a neural network trained to reconstruct its input. It encodes 
 
 ## Convolution Autoencoder Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/Visalan-H/convolutional-denoising-autoencoder/assets/152077751/ab59d944-c232-4dfc-89c9-9290822d7da0)
 
 ## DESIGN STEPS
 Step 1: Import the necessary libraries and dataset.
