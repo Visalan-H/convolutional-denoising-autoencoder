@@ -28,12 +28,10 @@ Include your code here
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![image](https://github.com/Visalan-H/convolutional-denoising-autoencoder/assets/152077751/64f08a92-bcbf-4435-a723-1f708976181d)
 
 ### Original vs Noisy Vs Reconstructed Image
 
-Include a few sample images here.
-
-
+![image](https://github.com/Visalan-H/convolutional-denoising-autoencoder/assets/152077751/0599797d-20f5-4924-a84c-0716203fb4cf)
 
 ## RESULT
